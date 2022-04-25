@@ -1,0 +1,18 @@
+
+  body {
+    background-color:aqua;
+  }
+  hr{
+    background-color: blue;
+    border-style: dotted;
+    height: 0px;
+    width: 10%;
+  }
+h1
+{
+  color: blue;
+}
+h3
+{
+  color: red;
+}
